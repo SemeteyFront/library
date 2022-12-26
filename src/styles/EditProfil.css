@@ -1,0 +1,181 @@
+.edit-profil-form {
+    position: relative;
+    width: 925px;
+    height: 600px;
+    /* background: #ffffff; */
+    border-radius: 16px;
+    left: 220px;
+    top: 10px;
+  }
+  
+  .edit-prof-title {
+    position: relative;
+    left: 40px;
+    color: #0f5ed4;
+    top: 170px;
+  }
+  
+  .edit-fon-2 {
+    position: absolute;
+    width: 400px;
+    height: 450px;
+    left: 37px;
+    top: 200px;
+    background: white;
+    box-shadow: 0px 2px 2px rgba(73, 71, 71, 0.25);
+    border-radius: 24px;
+  }
+  
+  .avatar-foto {
+    position: relative;
+    left: 90px;
+    top: 70px;
+    width: 240px;
+    height: 240px;
+    border-radius: 50%;
+  }
+  
+  .edited-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 240px;
+    height: 30px;
+    left: 80px;
+    top: 320px;
+    background: #9dbaf3;
+    color: white;
+    font-size: 16px;
+    border: 1px solid #9dbaf3;
+    border-radius: 8px;
+    transition: 0.3s;
+  }
+  .edited-file{
+    position: absolute;
+    background: #ebf5ff;
+    top: 350px;
+    left: 80px;
+    width: 240px;
+  }
+  .edited-btn:hover {
+    box-shadow: 0 0 4px rgb(10, 10, 10);
+    transition: 0.3s;
+  }
+  .deleted-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 240px;
+    height: 40px;
+    left: 80px;
+    top: 385px;
+    background: #9dbaf3;
+    color: white;
+    font-size: 16px;
+    border: 1px solid #9dbaf3;
+    border-radius: 8px;
+    transition: 0.3s;
+  }
+  
+  .deleted-btn:hover {
+    box-shadow: 0 0 4px rgb(10, 10, 10);
+    transition: 0.3s;
+  }
+  
+  .title_name {
+    position: absolute;
+    width: 400px;
+    height: 545px;
+    left: 475px;
+    top: 175px;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 51px;
+  }
+  
+  .inp_1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 10px;
+    position: absolute;
+    width: 400px;
+    height: 18px;
+    left: 470px;
+    top: 230px;
+    background: #e3e3e3;
+    border-radius: 6px;
+    border: none;
+    border: 0.5px solid rgb(223, 216, 216);
+  }
+  
+  .inp_1:hover {
+    outline: 0.5px solid rgb(118, 118, 186);
+  }
+  
+  .div_2 {
+    position: relative;
+    top: 20px;
+  }
+  
+  .div_3 {
+    position: relative;
+    top: 110px;
+  }
+  .change-pass {
+    position: absolute;
+    left: 760px;
+    top: 470px;
+    font-family: "Roboto";
+    /* font-size: 15px; */
+  }
+  
+  .btn_save {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    left: 470px;
+    top: 520px;
+    background: #9dbaf3;
+    color: white;
+    font-size: 16px;
+    border: 1px solid #9dbaf3;
+    border-radius: 8px;
+    box-sizing: border-box;
+    transition: 0.3s;
+  }
+  
+  .btn_save:hover {
+    box-shadow: 0 0 4px rgb(10, 10, 10);
+    transition: 0.3s;
+  }
+  
+  .btn_delete_account {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    left: 692px;
+    top: 520px;
+    background: #9dbaf3;
+    color: white;
+    font-size: 16px;
+    border: 1px solid #9dbaf3;
+    border-radius: 8px;
+    box-sizing: border-box;
+    transition: 0.3s;
+  }
+  
+  .btn_delete_account:hover {
+    box-shadow: 0 0 4px rgb(10, 10, 10);
+    transition: 0.3s;
+  }

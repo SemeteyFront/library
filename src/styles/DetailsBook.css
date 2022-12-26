@@ -1,0 +1,129 @@
+.div-form {
+    position: absolute;
+    width: 85%;
+    height: 80%;
+    left: 95px;
+    top: 200px;
+    background: #ffffff;
+    box-shadow: 0px 2px 2px rgba(73, 71, 71, 0.25);
+    border-radius: 24px;
+  }
+  
+  .edit-prof2 {
+    position: absolute;
+    left: 90%;
+    top: 78%;
+  }
+  
+  .delete {
+    width: 22px;
+    position: absolute;
+    left: 95%;
+    top: 78%;
+  }
+  
+  .book-detail {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 25px;
+    top: 40px;
+    filter: drop-shadow(0px 2px 2px rgba(0, 0, 0, 0.25));
+    border-radius: 8px;
+  }
+  
+  .btn-read2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 145px;
+    height: 40px;
+    left: 25px;
+    top: 350px;
+    background: #9dbaf3;
+    color: white;
+    font-size: 16px;
+    border: 1px solid #9dbaf3;
+    border-radius: 8px;
+    box-sizing: border-box;
+    transition: 0.3s;
+  }
+  
+  .btn-read2:hover {
+    box-shadow: 0 0 4px rgb(10, 10, 10);
+    transition: 0.3s;
+  }
+  
+  .btn-downl {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 145px;
+    height: 40px;
+    left: 180px;
+    top: 350px;
+    background: #9dbaf3;
+    color: white;
+    font-size: 16px;
+    border: 1px solid #9dbaf3;
+    border-radius: 8px;
+    box-sizing: border-box;
+    transition: 0.3s;
+  }
+  
+  .btn-downl:hover {
+    box-shadow: 0 0 4px rgb(10, 10, 10);
+    transition: 0.3s;
+  }
+  
+  .numberr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 192px;
+    top: 340px;
+    margin-left: 153px;
+    font-size: 20px;
+    font-weight: 500;
+  }
+  
+  .starr {
+    position: relative;
+    margin-left: 335px;
+    top: 355px;
+  }
+  
+  .feedback {
+    position: absolute;
+    left: 400px;
+    top: 360px;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 20px;
+  }
+  
+  .data_title {
+    position: relative;
+    left: 346px;
+    top: 50px;
+    font-size: 16px;
+  }
+  .data_title2 {
+    font-weight: 600;
+  }
+  
+  .title_name {
+    position: relative;
+    left: 350px;
+    top: 20px;
+  }
+  
+  .title_p {
+    position: relative;
+    left: 350px;
+    top: 20px;
+    width: 700px;
+  }
